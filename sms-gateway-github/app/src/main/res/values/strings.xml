@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Gateway Pro</string>
+    <string name="server_starting">⏳ Démarrage…</string>
+    <string name="server_active">✅ Serveur actif</string>
+    <string name="server_error">❌ Erreur serveur</string>
+    <string name="waiting_ip">📡 En attente…</string>
+    <string name="feature_sms">✅ SMS natif</string>
+    <string name="feature_mms">✅ MMS automatique</string>
+    <string name="feature_no_popup">✅ Pas de popup</string>
+</resources>
